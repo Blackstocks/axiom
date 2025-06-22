@@ -187,22 +187,6 @@ Update `hooks/use-token-data.ts` to modify the sample token data or connect to a
 - **Tablet**: 640px - 1024px (md/lg)
 - **Desktop**: > 1024px (xl)
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Deploy automatically with each push
-
-### Other Platforms
-
-The application can be deployed to any platform that supports Next.js:
-- Netlify
-- AWS Amplify
-- Railway
-- DigitalOcean App Platform
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -211,9 +195,6 @@ The application can be deployed to any platform that supports Next.js:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🆘 Support
 
@@ -221,16 +202,6 @@ For support and questions:
 - Create an issue in the GitHub repository
 - Check the documentation in the `/docs` folder
 - Review the component examples in `/components`
-
-## 🔮 Roadmap
-
-- [ ] Real WebSocket integration
-- [ ] User authentication
-- [ ] Portfolio tracking
-- [ ] Advanced charting
-- [ ] Mobile app version
-- [ ] Multi-language support
-
 ---
 
 Built with ❤️ using Next.js and modern web technologies.
